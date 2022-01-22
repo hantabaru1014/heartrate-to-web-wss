@@ -1,0 +1,14 @@
+{
+  "name": "heartrate-to-web-wss",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "hantabaru1014",
+  "license": "MIT",
+  "dependencies": {
+    "ws": "^8.4.2"
+  }
+}
